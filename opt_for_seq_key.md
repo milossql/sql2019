@@ -5,6 +5,7 @@
 4. execute c.cmd and check execution statistics (insert into normal table) OFF
 5. execute c_opt.cmd and check execution statistics (insert into optimized table) ON
 6. execute c_both.cmd and check execution statistics (insert into both tables) ON*
+
 ##My results average excution time
 
 option | average execution time
