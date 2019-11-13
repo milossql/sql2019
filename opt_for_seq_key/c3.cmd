@@ -1,0 +1,1 @@
+.\ostress -E -dOptSeqKey -Q"EXEC dbo.P3" -SMySQL2019Server -r100 -n300 -q
